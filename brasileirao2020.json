@@ -2,9 +2,9 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.flamengo",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
-         "identifier":"brasileirao2021c1",
-         "name":"Campeao 2021",
+      {
+         "identifier":"brasileirao2021c2",
+         "name":"Campeao 2021 (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -78,30 +78,219 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
                ]
             }
          ]
       },
-   	  {
+      {
+         "identifier":"brasileirao2021c1",
+         "name":"Campeao 2021 (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"brasileirao2021j38",
          "name":"vs Sao Paulo",
          "publisher":"Astro Mobile",
@@ -177,25 +366,25 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             },
             {
@@ -312,25 +501,25 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             },
             {
@@ -435,30 +624,30 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
       },
-   	{
+      {
          "identifier":"brasileirao2021j34",
          "name":"vs Vasco",
          "publisher":"Astro Mobile",
@@ -534,12 +723,12 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
       },
-   	{
+      {
          "identifier":"brasileirao2021j33",
          "name":"vs Sport Recife",
          "publisher":"Astro Mobile",
@@ -615,12 +804,12 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
       },
-   	  {
+      {
          "identifier":"brasileirao2021j32",
          "name":"vs Gremio",
          "publisher":"Astro Mobile",
@@ -696,19 +885,19 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
@@ -789,19 +978,19 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
@@ -882,25 +1071,25 @@
             {
                "image_file":"11.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"12.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"13.webp",
                "emojis":[
-
+                  
                ]
             },
             {
                "image_file":"14.webp",
                "emojis":[
-
+                  
                ]
             }
          ]
@@ -1244,7 +1433,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"brasileirao2021j22",
          "name":"vs Coritiba",
          "publisher":"Astro Mobile",
