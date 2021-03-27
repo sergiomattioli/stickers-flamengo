@@ -79,7 +79,7 @@
       },
       {
          "identifier":"mascota1",
-         "name":"Mascota 1",
+         "name":"Mascote",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -142,7 +142,7 @@
       },
       {
          "identifier":"animated2",
-         "name":"Animated 2",
+         "name":"Animados 2",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -205,7 +205,7 @@
       },
       {
          "identifier":"animated3",
-         "name":"Animated 3",
+         "name":"Animados 3",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -331,7 +331,7 @@
       },
       {
          "identifier":"animated1",
-         "name":"Pack 1",
+         "name":"Animados 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
